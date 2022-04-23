@@ -1,0 +1,22 @@
+{
+  "name": "webfilm-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "sasstocss": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TQVinh091202/Webfilm-2.git"
+  },
+  "author": "Flim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TQVinh091202/Webfilm-2/issues"
+  },
+  "homepage": "https://github.com/TQVinh091202/Webfilm-2#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
